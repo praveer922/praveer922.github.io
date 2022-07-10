@@ -147,7 +147,6 @@ input, select, textarea {
 		transition: color 0.25s ease-in-out, border-bottom-color 0.25s ease-in-out;
 		color: #666;
 		text-decoration: none;
-		border-bottom: solid 1px #ddd;
 	}
 
 		a strong {
@@ -1919,7 +1918,6 @@ input, select, textarea {
 
 		#header > .container {
 			padding: 14em 0 7em 0;
-			border-bottom: solid 2px #e5e5e5;
 			box-shadow: inset 0px -8px 0px 0px #fff, inset 0px -10px 0px 0px #e5e5e5;
 		}
 
