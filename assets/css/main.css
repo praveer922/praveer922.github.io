@@ -147,6 +147,7 @@ input, select, textarea {
 		transition: color 0.25s ease-in-out, border-bottom-color 0.25s ease-in-out;
 		color: #666;
 		text-decoration: none;
+		border-bottom-color: rgba(255, 255, 255, 0);
 	}
 
 		a strong {
