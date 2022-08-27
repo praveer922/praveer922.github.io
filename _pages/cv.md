@@ -9,5 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-![Resume](images/resume_praveer_20220824_page-0001.jpg?raw=true "Resume")
-![Resume](images/resume_praveer_20220824_page-0002.jpg?raw=true "Resume")
+
+![resume_1](https://user-images.githubusercontent.com/13656683/187024339-8b02acc3-28ef-4480-8a09-e69a4db2b8fc.jpg)
+![resume_2](https://user-images.githubusercontent.com/13656683/187024341-a4056c20-ba8c-4b78-a7eb-aa76a158af4b.jpg)
