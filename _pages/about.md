@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Hi! I'm Praveer."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Praveer.
+
