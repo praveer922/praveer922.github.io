@@ -15,11 +15,11 @@ Education
 
 Work experience
 ======
-* Hudson River Trading -- Trading Operations Developer (Sep 2019 - Present)
-* National University of Singapore -- Research Assistant (May 2019 - Aug 2019)
-* Playphone Inc. -- Software Engineering Intern (Aug 2017 - Jul 2018
-* Government Technology Agency of Singapore -- Software Engineering Intern (Android) (May 2017 - Jul 2017)
-* National University of Singapore -- Teaching Assistant (Aug 2016 - Nov 2016)
+* <strong>Hudson River Trading</strong> -- Trading Operations Developer (Sep 2019 - Present)
+* <strong>National University of Singapore</strong> -- Research Assistant (May 2019 - Aug 2019)
+* <strong>Playphone Inc.</strong> -- Software Engineering Intern (Aug 2017 - Jul 2018)
+* <strong>Government Technology Agency of Singapore</strong> -- Software Engineering Intern (Android) (May 2017 - Jul 2017)
+* <strong>National University of Singapore</strong> -- Teaching Assistant (Aug 2016 - Nov 2016)
 
 View my resume [here](https://praveer922.github.io/cv/).
 
