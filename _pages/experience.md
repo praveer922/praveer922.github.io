@@ -21,6 +21,8 @@ Work experience
 * Government Technology Agency of Singapore -- Software Engineering Intern (Android) (May 2017 - Jul 2017)
 * National University of Singapore -- Teaching Assistant (Aug 2016 - Nov 2016)
 
+View my resume [here](https://praveer922.github.io/cv/).
+
 Skills
 ======
 * C++
