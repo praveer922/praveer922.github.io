@@ -11,49 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in Testing Science, Testing University, 2012
-* M.S. in Testonomy, Testing University, 2014
-* Ph.D in Testology, Testing University, 2017 (expected)
+* B.S. in Computer Science, National University of Singapore, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Testing University
-  * Duties included: Running Tests
-  * Supervisor: Professor Travis
+* Hudson River Trading -- Trading Operations Developer (Sep 2019 - Present)
+* National University of Singapore -- Research Assistant (May 2019 - Aug 2019)
+* Playphone Inc. -- Software Engineering Intern (Aug 2017 - Jul 2018
+* Government Technology Agency of Singapore -- Software Engineering Intern (Android) (May 2017 - Jul 2017)
+* National University of Singapore -- Teaching Assistant (Aug 2016 - Nov 2016)
 
-* Fall 2015: Research Assistant
-  * Testing University
-  * Duties included: Running Tests
-  * Supervisor: Professor Travis
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C++
+* OpenGL
+* Python
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 49 different slack teams
+
