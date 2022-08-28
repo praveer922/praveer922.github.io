@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-![resume_1](https://user-images.githubusercontent.com/13656683/187024339-8b02acc3-28ef-4480-8a09-e69a4db2b8fc.jpg)
-![resume_2](https://user-images.githubusercontent.com/13656683/187024341-a4056c20-ba8c-4b78-a7eb-aa76a158af4b.jpg)
+![resume_praveer_20220828_pages-to-jpg-0001](https://user-images.githubusercontent.com/13656683/187061486-7a9907cd-18c4-4520-9018-21e82fffbfe0.jpg)
+![resume_praveer_20220828_pages-to-jpg-0002](https://user-images.githubusercontent.com/13656683/187061490-87cce83e-e433-417f-bd88-4c46754f1f3d.jpg)
+
 
 [Download]([files/resume_praveer_20220824.pdf](https://github.com/praveer922/praveer922.github.io/raw/master/files/resume_praveer_20220824.pdf))
